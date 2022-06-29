@@ -8,19 +8,19 @@ import img03 from '../../assets/images/portfolio03.jpg'
 
 const posrtfolioData = [
     {
+        imgUrl: img03,
+        title: 'Instagram Clone',
+        url: 'https://github.com/tushar-1308/MERN-project'
+    },
+    {
         imgUrl: img01,
         title: 'Personal Portfolio Website',
-        url: 'https://www.github.com/tushar-1308'
+        url: 'https://github.com/tushar-1308/Personal-Portfolio'
     },
     {
         imgUrl: img02,
         title: 'AI Assistant in Python',
-        url: 'https://www.github.com/tushar-1308'
-    },
-    {
-        imgUrl: img03,
-        title: 'Snake Xenzia Game in Python',
-        url: 'https://www.github.com/tushar-1308'
+        url: 'https://github.com/tushar-1308/AI-assistant'
     }
 ]
 
@@ -45,15 +45,12 @@ const Portfolio = () => {
 
                                     <div className="portfolio__content">
                                         <h5>{item.title}</h5>
-                                        <a href={item.url} target="_blank">View Live</a>
+                                        <a href={item.url} target="_blank">View Code</a>
                                     </div>
                                 </div>
                             </Col>
                             )
                         }
-                        
-                    
-
                 </Row>
             </Container>
         </section>

@@ -10,7 +10,7 @@ const frontendSkills = [
     {
         title: 'Python',
         width: '50%',
-        percentage: '80%'
+        percentage: '70%'
     },
     {
         title: 'Core Java',
@@ -20,7 +20,7 @@ const frontendSkills = [
     {
         title: 'Data Structures & Algo.',
         width: '50%',
-        percentage: '75%'
+        percentage: '85%'
     }
 ];
 
@@ -31,19 +31,19 @@ const backendSkills = [
         percentage: '70%'
     },
     {
-        title: 'Javascript',
-        width: '50%',
-        percentage: '60%'
-    },
-    {
-        title: 'React',
+        title: 'React.Js',
         width: '50%',
         percentage: '50%'
     },
     {
-        title: 'SQL',
+        title: 'NodeJs, Express',
         width: '50%',
-        percentage: '70%'
+        percentage: '30%'
+    },
+    {
+        title: 'MongoDb',
+        width: '50%',
+        percentage: '50%'
     }
 ];
 

@@ -17,6 +17,7 @@ const HeroSection = () => {
             strings:[
                 'Tushar Bansal',
                 'Software Engineer',
+                'Full Stack Developer'
             ]
         })
     },[])
@@ -46,14 +47,13 @@ const HeroSection = () => {
                             fast paced organization, where I can help in the 
                             delivery of state-of-the-art software solutions. 
                             Experience includes coding, troubleshooting, and 
-                            testing for my own personal projects. Relevant skills 
-                            include C++, Python, Core Java, Data Structures, Front 
-                            end dev. with HTML5, CSS3, JavaScript, React and 
-                            Debugging.</p>
+                            testing for my personal projects. Relevant skills 
+                            include C++, Python, Core Java, Data Structures, HTML5, 
+                            CSS3, JavaScript, ReactJs, NodeJs, Express and MongoDb.</p>
                         
                         <div className="mt-5 hero__btns d-flex align-items-center gap-4">
                             <button className="btn hire__btn">
-                                <a href="https://drive.google.com/file/d/1-0cbtI6FrmmEu0UeH1qzQfx87CfsVqJF/view?usp=sharing" target='__blank'>Hire me</a>
+                                <a href="https://drive.google.com/file/d/1Uo9BnXoYIvOHvG8Qkledflx3Zsh0OnoV/view?usp=sharing" target='__blank'>Hire me</a>
                             </button>
                             <button className="btn" url="#contact" onClick={contactBtnFunc}>Contact</button>
                         </div>

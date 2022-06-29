@@ -6,7 +6,7 @@ const developementExperienceData =  [
     {
         year: ' July, 2021 - Present',
         title: 'Associate Software Engineer - Accenture',
-        desc: "Responsible for writing High level Test scenarios and Test cases in Selenium based on the requirement documents. Performed SIT, UAT, Pre-prod, Regression, Migration, Concurrent & Production Testing."
+        desc: "Added various type of new features acc. to the Business requirements in the different offerings present in the cost estimator tool of Accenture's internal project called INSPIRE. Increased the User experience by 25% by adding the new offerings and services."
     },
     {
         year: 'Jan, 2021 - June, 2021',

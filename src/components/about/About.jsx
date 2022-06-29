@@ -41,10 +41,10 @@ const About = () => {
                                     fast paced organization, where I can help in the 
                                     delivery of state-of-the-art software solutions. 
                                     Experience includes coding, troubleshooting, and 
-                                    testing for my own personal projects. Relevant skills 
-                                    include C++, Python, Core Java, Data Structures, Front 
-                                    end dev. with HTML5, CSS3, JavaScript, React and 
-                                    Debugging.</p>
+                                    testing for my personal projects. Relevant skills 
+                                    include C++, Python, Core Java, Data Structures, 
+                                    HTML5, CSS3, JavaScript, ReactJs, NodeJs, Express, 
+                                    MongoDb.</p>
                                     <div className="social__links">
                                         <h6 className='mb-3'>Connect with me:</h6>
                                         <span><a href='https://wa.me/+919914550644' target="_blank"><i class="ri-whatsapp-fill"></i></a></span>
